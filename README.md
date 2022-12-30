@@ -40,7 +40,7 @@ Since my background is software development, I choose Data Engineering as my fir
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=locnd-172&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=locnd-172&show_icons=true&theme=light"
   media="(prefers-color-scheme: dark)"
 />
 <source
