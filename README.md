@@ -52,12 +52,6 @@ Since my background is software development, I choose Data Engineering as my fir
 
 ## 🛠 Knowledges/Skills
 
-**Keywords**
-
-![Software Development](https://img.shields.io/badge/Software%20Development-%2314354C.svg?style=for-the-badge&logoColor=white) 
-![Data Engineer](https://img.shields.io/badge/Data%20Engineer-%2314354C.svg?style=for-the-badge&logoColor=white) 
-![UI/UX](https://img.shields.io/badge/UI/UX-%2314354C.svg?style=for-the-badge&logoColor=white) 
-
 **Language**
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
